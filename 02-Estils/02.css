@@ -1,0 +1,14 @@
+svg {
+  border: 1px solid;
+}
+
+ .elemento {
+   x: 10px;
+   y:20px;
+   width:200px;
+   height:100px;
+   fill: purple;
+   stroke: blue;
+   stroke-width: 1;
+   stroke-linejoin: bevel;
+ }
